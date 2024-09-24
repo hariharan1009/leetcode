@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hariharan1009/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/hariharan1009/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/hariharan1009/leetcode/tree/master/0217-contains-duplicate) |
+| [2350-find-closest-number-to-zero](https://github.com/hariharan1009/leetcode/tree/master/2350-find-closest-number-to-zero) |
 ## Math
 |  |
 | ------- |
