@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/hariharan1009/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/hariharan1009/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/hariharan1009/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/hariharan1009/leetcode/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/hariharan1009/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hariharan1009/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/hariharan1009/leetcode/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/hariharan1009/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/hariharan1009/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/hariharan1009/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/hariharan1009/leetcode/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
