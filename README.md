@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/hariharan1009/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/hariharan1009/leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/hariharan1009/leetcode/tree/master/0189-rotate-array) |
+| [0371-sum-of-two-integers](https://github.com/hariharan1009/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/hariharan1009/leetcode/tree/master/0191-number-of-1-bits) |
+| [0371-sum-of-two-integers](https://github.com/hariharan1009/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
