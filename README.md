@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/hariharan1009/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/hariharan1009/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/hariharan1009/leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/hariharan1009/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/hariharan1009/leetcode/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/hariharan1009/leetcode/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/hariharan1009/leetcode/tree/master/1013-fibonacci-number) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/hariharan1009/leetcode/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/hariharan1009/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
