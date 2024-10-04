@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/hariharan1009/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/hariharan1009/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/hariharan1009/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/hariharan1009/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hariharan1009/leetcode/tree/master/0283-move-zeroes) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/hariharan1009/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2350-find-closest-number-to-zero](https://github.com/hariharan1009/leetcode/tree/master/2350-find-closest-number-to-zero) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/hariharan1009/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/hariharan1009/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/hariharan1009/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/hariharan1009/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/hariharan1009/leetcode/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/hariharan1009/leetcode/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/hariharan1009/leetcode/tree/master/2383-add-two-integers) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/hariharan1009/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/hariharan1009/leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/hariharan1009/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/hariharan1009/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Dynamic Programming
 |  |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/hariharan1009/leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/hariharan1009/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hariharan1009/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/hariharan1009/leetcode/tree/master/0268-missing-number) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/hariharan1009/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## String
 |  |
@@ -90,11 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/hariharan1009/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/hariharan1009/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/hariharan1009/leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/hariharan1009/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hariharan1009/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/hariharan1009/leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
