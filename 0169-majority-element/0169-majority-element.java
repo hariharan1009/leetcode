@@ -9,7 +9,8 @@ class Solution {
             }
             if(c>n/2){
                 return nums[i];
-            }  else
+            }  
+            else
             {
                 c=1;
             }
