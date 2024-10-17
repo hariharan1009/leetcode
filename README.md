@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hariharan1009/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hariharan1009/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hariharan1009/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/hariharan1009/leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/hariharan1009/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/hariharan1009/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/hariharan1009/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/hariharan1009/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/hariharan1009/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/hariharan1009/leetcode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/hariharan1009/leetcode/tree/master/0792-binary-search) |
 ## Sorting
 |  |
 | ------- |
