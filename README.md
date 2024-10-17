@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hariharan1009/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hariharan1009/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hariharan1009/leetcode/tree/master/0485-max-consecutive-ones) |
+| [1019-squares-of-a-sorted-array](https://github.com/hariharan1009/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/hariharan1009/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/hariharan1009/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2350-find-closest-number-to-zero](https://github.com/hariharan1009/leetcode/tree/master/2350-find-closest-number-to-zero) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/hariharan1009/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/hariharan1009/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/hariharan1009/leetcode/tree/master/0392-is-subsequence) |
+| [1019-squares-of-a-sorted-array](https://github.com/hariharan1009/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/hariharan1009/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hariharan1009/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hariharan1009/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hariharan1009/leetcode/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/hariharan1009/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/hariharan1009/leetcode/tree/master/1256-rank-transform-of-an-array) |
 ## Recursion
 |  |
