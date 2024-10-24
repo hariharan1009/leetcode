@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hariharan1009/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hariharan1009/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2350-find-closest-number-to-zero](https://github.com/hariharan1009/leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [2502-sort-the-people](https://github.com/hariharan1009/leetcode/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/hariharan1009/leetcode/tree/master/3194-find-words-containing-character) |
 ## Math
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/hariharan1009/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/hariharan1009/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hariharan1009/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2502-sort-the-people](https://github.com/hariharan1009/leetcode/tree/master/2502-sort-the-people) |
 ## String
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/hariharan1009/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1894-merge-strings-alternately](https://github.com/hariharan1009/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hariharan1009/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2502-sort-the-people](https://github.com/hariharan1009/leetcode/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/hariharan1009/leetcode/tree/master/3194-find-words-containing-character) |
 ## Trie
 |  |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hariharan1009/leetcode/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/hariharan1009/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/hariharan1009/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [2502-sort-the-people](https://github.com/hariharan1009/leetcode/tree/master/2502-sort-the-people) |
 ## Recursion
 |  |
 | ------- |
