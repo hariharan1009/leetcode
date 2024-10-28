@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/hariharan1009/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0782-jewels-and-stones](https://github.com/hariharan1009/leetcode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/hariharan1009/leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/hariharan1009/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/hariharan1009/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hariharan1009/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/hariharan1009/leetcode/tree/master/2502-sort-the-people) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/hariharan1009/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hariharan1009/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hariharan1009/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/hariharan1009/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Tree
 |  |
 | ------- |
