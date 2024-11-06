@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/hariharan1009/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2502-sort-the-people](https://github.com/hariharan1009/leetcode/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/hariharan1009/leetcode/tree/master/3194-find-words-containing-character) |
+| [3291-find-if-array-can-be-sorted](https://github.com/hariharan1009/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/hariharan1009/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hariharan1009/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/hariharan1009/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/hariharan1009/leetcode/tree/master/0371-sum-of-two-integers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hariharan1009/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3291-find-if-array-can-be-sorted](https://github.com/hariharan1009/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hariharan1009/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/hariharan1009/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/hariharan1009/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2502-sort-the-people](https://github.com/hariharan1009/leetcode/tree/master/2502-sort-the-people) |
+| [3291-find-if-array-can-be-sorted](https://github.com/hariharan1009/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Recursion
 |  |
 | ------- |
