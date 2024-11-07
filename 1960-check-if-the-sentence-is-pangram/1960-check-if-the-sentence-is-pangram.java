@@ -10,9 +10,9 @@ class Solution {
         //     }
         // }
         // return true;
-        String a = "abcdefghijklmnopqrstuvwxyz";
-        for (int i = 0; i < a.length(); i++) {
-            if (!s.contains(String.valueOf(a.charAt(i)))) {
+        //String a = "abcdefghijklmnopqrstuvwxyz";
+        for (int i = 0; i < 26; i++) {
+            if (!s.contains((char)(i+'a')+"")) {
                 return false;
             }
         }
