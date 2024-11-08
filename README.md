@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/hariharan1009/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/hariharan1009/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/hariharan1009/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1940-maximum-xor-for-each-query](https://github.com/hariharan1009/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/hariharan1009/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hariharan1009/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hariharan1009/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/hariharan1009/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/hariharan1009/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/hariharan1009/leetcode/tree/master/0371-sum-of-two-integers) |
+| [1940-maximum-xor-for-each-query](https://github.com/hariharan1009/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hariharan1009/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hariharan1009/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/hariharan1009/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -365,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/hariharan1009/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1940-maximum-xor-for-each-query](https://github.com/hariharan1009/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 <!---LeetCode Topics End-->
