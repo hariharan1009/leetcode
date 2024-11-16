@@ -396,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/hariharan1009/leetcode/tree/master/1940-maximum-xor-for-each-query) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/hariharan1009/leetcode/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
