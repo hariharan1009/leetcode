@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hariharan1009/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2502-sort-the-people](https://github.com/hariharan1009/leetcode/tree/master/2502-sort-the-people) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hariharan1009/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2836-neither-minimum-nor-maximum](https://github.com/hariharan1009/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3194-find-words-containing-character](https://github.com/hariharan1009/leetcode/tree/master/3194-find-words-containing-character) |
 | [3291-find-if-array-can-be-sorted](https://github.com/hariharan1009/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/hariharan1009/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/hariharan1009/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/hariharan1009/leetcode/tree/master/2502-sort-the-people) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hariharan1009/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2836-neither-minimum-nor-maximum](https://github.com/hariharan1009/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3291-find-if-array-can-be-sorted](https://github.com/hariharan1009/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Recursion
 |  |
