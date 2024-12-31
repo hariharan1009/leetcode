@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/hariharan1009/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hariharan1009/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/hariharan1009/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0780-max-chunks-to-make-sorted](https://github.com/hariharan1009/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/hariharan1009/leetcode/tree/master/0792-binary-search) |
 | [0909-stone-game](https://github.com/hariharan1009/leetcode/tree/master/0909-stone-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/hariharan1009/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/hariharan1009/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hariharan1009/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hariharan1009/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/hariharan1009/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/hariharan1009/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/hariharan1009/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hariharan1009/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/hariharan1009/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hariharan1009/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hariharan1009/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0780-max-chunks-to-make-sorted](https://github.com/hariharan1009/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/hariharan1009/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/hariharan1009/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/hariharan1009/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariharan1009/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/hariharan1009/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 ## String Matching
 |  |
 | ------- |
@@ -430,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3626-smallest-divisible-digit-product-i](https://github.com/hariharan1009/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/hariharan1009/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
