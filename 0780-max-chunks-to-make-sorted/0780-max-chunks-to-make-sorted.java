@@ -1,13 +1,12 @@
 class Solution {
     public int maxChunksToSorted(int[] arr) {
-        int sum = 0, permu = 0, c = 0;
-        for (int i = 0; i < arr.length; i++) {
-            sum += arr[i];
-            permu += i;
-            if (sum == permu) {
-                c++;
-            }
+       int c=0,max=0;
+       for(int i=0;i<arr.length;i++){
+        max=Math.max(max,arr[i]);
+        if(max==i){
+            c++;
         }
-        return c;
+       }
+       return c; 
     }
 }
