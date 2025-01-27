@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/hariharan1009/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/hariharan1009/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/hariharan1009/leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/hariharan1009/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/hariharan1009/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hariharan1009/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hariharan1009/leetcode/tree/master/0088-merge-sorted-array) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hariharan1009/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/hariharan1009/leetcode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/hariharan1009/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/hariharan1009/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/hariharan1009/leetcode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/hariharan1009/leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -451,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/hariharan1009/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/hariharan1009/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
