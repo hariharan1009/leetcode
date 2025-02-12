@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/hariharan1009/leetcode/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/hariharan1009/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/hariharan1009/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hariharan1009/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hariharan1009/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hariharan1009/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/hariharan1009/leetcode/tree/master/2491-smallest-even-multiple) |
 | [3321-type-of-triangle](https://github.com/hariharan1009/leetcode/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/hariharan1009/leetcode/tree/master/3371-harshad-number) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hariharan1009/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hariharan1009/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/hariharan1009/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hariharan1009/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
