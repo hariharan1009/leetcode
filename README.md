@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/hariharan1009/leetcode/tree/master/2502-sort-the-people) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hariharan1009/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hariharan1009/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/hariharan1009/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/hariharan1009/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3194-find-words-containing-character](https://github.com/hariharan1009/leetcode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/hariharan1009/leetcode/tree/master/3226-minimum-number-game) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/hariharan1009/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariharan1009/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/hariharan1009/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/hariharan1009/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## String Matching
 |  |
 | ------- |
