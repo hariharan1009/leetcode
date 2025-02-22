@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariharan1009/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/hariharan1009/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/hariharan1009/leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/hariharan1009/leetcode/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hariharan1009/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/hariharan1009/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/hariharan1009/leetcode/tree/master/0189-rotate-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/hariharan1009/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hariharan1009/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariharan1009/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/hariharan1009/leetcode/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/hariharan1009/leetcode/tree/master/0392-is-subsequence) |
 | [0909-stone-game](https://github.com/hariharan1009/leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/hariharan1009/leetcode/tree/master/1013-fibonacci-number) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/hariharan1009/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/hariharan1009/leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/hariharan1009/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/hariharan1009/leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/hariharan1009/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/hariharan1009/leetcode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/hariharan1009/leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/hariharan1009/leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/hariharan1009/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/hariharan1009/leetcode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/hariharan1009/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/hariharan1009/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/hariharan1009/leetcode/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/hariharan1009/leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hariharan1009/leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/hariharan1009/leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/hariharan1009/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 ## Binary Search
 |  |
@@ -319,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/hariharan1009/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/hariharan1009/leetcode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/hariharan1009/leetcode/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
