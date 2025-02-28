@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/hariharan1009/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/hariharan1009/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/hariharan1009/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1791-richest-customer-wealth](https://github.com/hariharan1009/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/hariharan1009/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/hariharan1009/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/hariharan1009/leetcode/tree/master/1940-maximum-xor-for-each-query) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/hariharan1009/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1791-richest-customer-wealth](https://github.com/hariharan1009/leetcode/tree/master/1791-richest-customer-wealth) |
 ## Counting Sort
 |  |
 | ------- |
