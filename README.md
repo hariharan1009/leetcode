@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/hariharan1009/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hariharan1009/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/hariharan1009/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/hariharan1009/leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/hariharan1009/leetcode/tree/master/0507-perfect-number) |
 | [0909-stone-game](https://github.com/hariharan1009/leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/hariharan1009/leetcode/tree/master/1013-fibonacci-number) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/hariharan1009/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hariharan1009/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/hariharan1009/leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/hariharan1009/leetcode/tree/master/0412-fizz-buzz) |
 | [0535-encode-and-decode-tinyurl](https://github.com/hariharan1009/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0782-jewels-and-stones](https://github.com/hariharan1009/leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/hariharan1009/leetcode/tree/master/0812-rotate-string) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/hariharan1009/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/hariharan1009/leetcode/tree/master/0412-fizz-buzz) |
 | [2048-build-array-from-permutation](https://github.com/hariharan1009/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/hariharan1009/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hariharan1009/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
