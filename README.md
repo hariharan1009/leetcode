@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/hariharan1009/leetcode/tree/master/0792-binary-search) |
 | [0909-stone-game](https://github.com/hariharan1009/leetcode/tree/master/0909-stone-game) |
 | [0944-smallest-range-i](https://github.com/hariharan1009/leetcode/tree/master/0944-smallest-range-i) |
+| [0979-di-string-match](https://github.com/hariharan1009/leetcode/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/hariharan1009/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/hariharan1009/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1256-rank-transform-of-an-array](https://github.com/hariharan1009/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/hariharan1009/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/hariharan1009/leetcode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/hariharan1009/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [0979-di-string-match](https://github.com/hariharan1009/leetcode/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/hariharan1009/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hariharan1009/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/hariharan1009/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/hariharan1009/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0782-jewels-and-stones](https://github.com/hariharan1009/leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/hariharan1009/leetcode/tree/master/0812-rotate-string) |
+| [0979-di-string-match](https://github.com/hariharan1009/leetcode/tree/master/0979-di-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/hariharan1009/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/hariharan1009/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/hariharan1009/leetcode/tree/master/1205-defanging-an-ip-address) |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariharan1009/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/hariharan1009/leetcode/tree/master/0409-longest-palindrome) |
 | [0780-max-chunks-to-make-sorted](https://github.com/hariharan1009/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0979-di-string-match](https://github.com/hariharan1009/leetcode/tree/master/0979-di-string-match) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/hariharan1009/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## String Matching
 |  |
