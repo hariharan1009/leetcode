@@ -16,26 +16,5 @@ class Solution {
             fast=fast.next.next;
         }
         return slow;
-
-
-
-
-
-        // ListNode temp=head;
-        // int c=0;
-        // while(temp!=null){
-        //     c++;
-        //     temp=temp.next;
-        // }
-        // int mid=(c/2)+1;
-        // temp=head;
-        // while(temp!=null){
-        //     mid=mid-1;
-        //     if(mid==0){
-        //         break;
-        //     }
-        //     temp=temp.next;
-        // }
-        // return temp;
     }
 }
