@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/hariharan1009/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1610-xor-operation-in-an-array](https://github.com/hariharan1009/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/hariharan1009/leetcode/tree/master/1635-number-of-good-pairs) |
+| [2032-largest-odd-number-in-string](https://github.com/hariharan1009/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/hariharan1009/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/hariharan1009/leetcode/tree/master/2491-smallest-even-multiple) |
 | [3321-type-of-triangle](https://github.com/hariharan1009/leetcode/tree/master/3321-type-of-triangle) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/hariharan1009/leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1894-merge-strings-alternately](https://github.com/hariharan1009/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/hariharan1009/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2032-largest-odd-number-in-string](https://github.com/hariharan1009/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/hariharan1009/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hariharan1009/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/hariharan1009/leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/hariharan1009/leetcode/tree/master/0409-longest-palindrome) |
 | [0780-max-chunks-to-make-sorted](https://github.com/hariharan1009/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0979-di-string-match](https://github.com/hariharan1009/leetcode/tree/master/0979-di-string-match) |
+| [2032-largest-odd-number-in-string](https://github.com/hariharan1009/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/hariharan1009/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## String Matching
 |  |
