@@ -1,21 +1,21 @@
 class Solution {
     public String removeOuterParentheses(String s) {
-        StringBuilder sb=new StringBuilder();
-        int count=0;
-       for(char c:s.toCharArray()){
-        if(c == '('){
-            if(count>0){
-                sb.append(c);
+         StringBuilder a=new StringBuilder();
+         int c=0;
+         for(char i:s.toCharArray()){
+            if(i=='('){
+                if(c>0){
+                    a.append(i);
+                }
+                c++;
             }
-            count++;
-        }
-        else if(c ==')'){
-                count--;
-                if(count>0){
-                    sb.append(c);
+            else if(i==')'){
+                c--;
+                if(c>0){
+                    a.append(i);
                 }
             }
-        }
-       return sb.toString();
+         }
+         return a.toString();
     }
 }
