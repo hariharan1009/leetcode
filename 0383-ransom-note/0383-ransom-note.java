@@ -5,11 +5,13 @@ class Solution {
             map.put(c,map.getOrDefault(c,0)+1);
         }
         for(char c:ransomNote.toCharArray()){
-            if(!map.containsKey(c) || map.get(c)<=0){
+            if(map.getOrDefault(c,0)==0){
                 return false;
             }
-            map.put(c,map.get(c)-1);
+            map.put(c, map.get(c) - 1);
+
         }
         return true;
+        
     }
 }
