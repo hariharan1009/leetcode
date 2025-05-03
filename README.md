@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/hariharan1009/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/hariharan1009/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1256-rank-transform-of-an-array](https://github.com/hariharan1009/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/hariharan1009/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hariharan1009/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hariharan1009/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/hariharan1009/leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/hariharan1009/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/hariharan1009/leetcode/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/hariharan1009/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/hariharan1009/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1610-xor-operation-in-an-array](https://github.com/hariharan1009/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/hariharan1009/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/hariharan1009/leetcode/tree/master/2032-largest-odd-number-in-string) |
