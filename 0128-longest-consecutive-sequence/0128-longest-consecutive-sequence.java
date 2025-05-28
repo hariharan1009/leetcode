@@ -4,18 +4,18 @@ class Solution {
             return 0;
         }
         Arrays.sort(nums);
-        int pre=nums[0];
         int c=1;
-        int max=1;
+        int x=nums[0];
+        int max=c;
         for(int i=1;i<nums.length;i++){
-            if(nums[i]== pre+1){
+            if(nums[i]==x+1){
                 c++;
             }
-            else if(nums[i]!=pre){
+            else if(nums[i]!=x){
                 c=1;
             }
-            pre=nums[i];
-            max=Math.max(max,c);
+            x=nums[i];
+            max=Math.max(c,max);
         }
         return max;
     }
