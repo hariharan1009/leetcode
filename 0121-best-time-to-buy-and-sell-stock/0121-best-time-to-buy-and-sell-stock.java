@@ -1,15 +1,14 @@
 class Solution {
-    public int maxProfit(int[] nums) {
-        int x=nums[0];
-        int y=0;
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]<x){
-                x=nums[i];
+    public int maxProfit(int[] p) {
+        int b=p[0];
+        int pro=0;
+          for (int i = 1; i < p.length; i++) {
+            if (b > p[i]) {
+                b = p[i];
             }
-            else{
-                y=Math.max(y,nums[i]-x);
-            }
+
+            pro = Math.max(pro,p[i] - b);
         }
-        return y;
-  }
+        return pro;
+    }
 }
