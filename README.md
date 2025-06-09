@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/hariharan1009/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/hariharan1009/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hariharan1009/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2154-minimum-moves-to-convert-string](https://github.com/hariharan1009/leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/hariharan1009/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/hariharan1009/leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/hariharan1009/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/hariharan1009/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0979-di-string-match](https://github.com/hariharan1009/leetcode/tree/master/0979-di-string-match) |
 | [2032-largest-odd-number-in-string](https://github.com/hariharan1009/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2154-minimum-moves-to-convert-string](https://github.com/hariharan1009/leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/hariharan1009/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## String Matching
 |  |
