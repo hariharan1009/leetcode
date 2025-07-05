@@ -12,12 +12,12 @@ class Solution {
     public ListNode reverseList(ListNode head) {
         ListNode p=null;
         while(head!=null){
-            ListNode temp=head.next;
+            ListNode tem=head.next;
             head.next=p;
             p=head;
-            head=temp;
+            head=tem;
         }
-        return p;
-        
+
+    return p;
     }
 }
