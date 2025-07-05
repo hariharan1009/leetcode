@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hariharan1009/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hariharan1009/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hariharan1009/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/hariharan1009/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/hariharan1009/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/hariharan1009/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/hariharan1009/leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/hariharan1009/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hariharan1009/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hariharan1009/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/hariharan1009/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/hariharan1009/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/hariharan1009/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/hariharan1009/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hariharan1009/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/hariharan1009/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hariharan1009/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/hariharan1009/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/hariharan1009/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/hariharan1009/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/hariharan1009/leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
