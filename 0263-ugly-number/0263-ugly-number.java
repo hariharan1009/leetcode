@@ -1,9 +1,9 @@
 class Solution {
-    public boolean isUgly(int n) {   
-        if(n<=0){
+    public boolean isUgly(int n) {
+         if(n<=0){
             return false;
-        } 
-        while(n%2==0||n%3==0||n%5==0){
+         }
+         while(n%2==0||n%3==0||n%5==0){
             if(n%2==0){
                 n/=2;
             }
@@ -15,15 +15,5 @@ class Solution {
             }
         }
         return n==1;
-        
-        // if(n==0){
-        //     return false;
-        // }
-        // for(int i = 2; i<6; i++){
-        //     while(n%i==0){
-        //         n = n/i;
-        //     }
-        // }
-        // return n==1;
     }
 }
