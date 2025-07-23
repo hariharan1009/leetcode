@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/hariharan1009/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/hariharan1009/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/hariharan1009/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1642-water-bottles](https://github.com/hariharan1009/leetcode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/hariharan1009/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2032-largest-odd-number-in-string](https://github.com/hariharan1009/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2238-a-number-after-a-double-reversal](https://github.com/hariharan1009/leetcode/tree/master/2238-a-number-after-a-double-reversal) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/hariharan1009/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/hariharan1009/leetcode/tree/master/0412-fizz-buzz) |
+| [1642-water-bottles](https://github.com/hariharan1009/leetcode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/hariharan1009/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/hariharan1009/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/hariharan1009/leetcode/tree/master/2058-concatenation-of-array) |
