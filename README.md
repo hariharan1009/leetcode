@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/hariharan1009/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/hariharan1009/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hariharan1009/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2857-total-distance-traveled](https://github.com/hariharan1009/leetcode/tree/master/2857-total-distance-traveled) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/hariharan1009/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/hariharan1009/leetcode/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/hariharan1009/leetcode/tree/master/3371-harshad-number) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/hariharan1009/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hariharan1009/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/hariharan1009/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2857-total-distance-traveled](https://github.com/hariharan1009/leetcode/tree/master/2857-total-distance-traveled) |
 | [3226-minimum-number-game](https://github.com/hariharan1009/leetcode/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hariharan1009/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hariharan1009/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
