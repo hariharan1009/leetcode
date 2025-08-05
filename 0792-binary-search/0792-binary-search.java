@@ -4,7 +4,6 @@ class Solution {
         while(s<=l){
             int mid=(s+l)/2;
             if(nums[mid]==target){
-
                 return mid;
             }
             else if(nums[mid]<target){
