@@ -9,5 +9,5 @@ class Solution {
             }
         }
         return sb.toString();
-    } 
+    }
 }
