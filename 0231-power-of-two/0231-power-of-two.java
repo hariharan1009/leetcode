@@ -3,6 +3,6 @@ class Solution {
         if(n==0||n==Integer.MIN_VALUE){
             return false;
         }
-        return (n&(n-1))==0;
+        return (n & (n-1))==0;
     }
 }
