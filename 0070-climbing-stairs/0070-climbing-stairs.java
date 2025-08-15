@@ -3,12 +3,12 @@ class Solution {
         if(n<=2){
             return n;
         }
-        int[] a=new int[n+1];
-        a[0]=1;
-        a[1]=1;
-        for(int i=2;i<=n;i++){
-            a[i]=a[i-1]+a[i-2];
+        int a1=1,a2=1;
+        for(int i=0;i<n;i++){
+            int temp=a1+a2;
+            a2=a1;
+            a1=temp;
         }
-        return a[n];
+        return a2;
     }
 }
