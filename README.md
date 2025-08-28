@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hariharan1009/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hariharan1009/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/hariharan1009/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3817-maximum-containers-on-a-ship](https://github.com/hariharan1009/leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 ## Two Pointers
 |  |
 | ------- |
