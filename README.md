@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/hariharan1009/leetcode/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/hariharan1009/leetcode/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/hariharan1009/leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1070-convert-to-base-2](https://github.com/hariharan1009/leetcode/tree/master/1070-convert-to-base-2) |
 | [1086-divisor-game](https://github.com/hariharan1009/leetcode/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/hariharan1009/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hariharan1009/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
