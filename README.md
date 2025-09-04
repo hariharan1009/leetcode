@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hariharan1009/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/hariharan1009/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/hariharan1009/leetcode/tree/master/3817-maximum-containers-on-a-ship) |
+| [3830-find-closest-person](https://github.com/hariharan1009/leetcode/tree/master/3830-find-closest-person) |
 ## Two Pointers
 |  |
 | ------- |
