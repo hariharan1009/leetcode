@@ -1,21 +1,10 @@
 class Solution {
-    public boolean checkIfPangram(String s) {
-        // boolean[] a=new boolean[26];
-        // for(int i=0;i<s.length();i++){
-        //     a[s.charAt(i)-'a']=true;
-        // }
-        // for(int i=0;i<26;i++){
-        //     if(a[i]==false){
-        //         return false;
-        //     }
-        // }
-        // return true;
-        //String a = "abcdefghijklmnopqrstuvwxyz";
-        for (int i = 0; i < 26; i++) {
-            if (!s.contains((char)(i+'a')+"")) {
-                return false;
-            }
+    public boolean checkIfPangram(String sentence) {
+        HashMap<Character,Integer> map=new HashMap<>();
+        for(char c:sentence.toCharArray()){
+            map.put(c,map.getOrDefault(c,0)+1);
         }
-        return true; 
+        if(map.size()==26) return true;
+        return false;
     }
 }
