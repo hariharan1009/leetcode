@@ -1,12 +1,12 @@
 class Solution {
-    public int maximumWealth(int[][] nums) {
+    public int maximumWealth(int[][] a) {
         int max=0;
-        for(int i=0;i<nums.length;i++){
+        for(int i=0;i<a.length;i++){
             int sum=0;
-            for(int j=0;j<nums[i].length;j++){
-                sum+=nums[i][j];
+            for(int j=0;j<a[i].length;j++){
+                sum+=a[i][j];
             }
-            max=Math.max(sum,max);
+            max=Math.max(max,sum);
         }
         return max;
     }
