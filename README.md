@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/hariharan1009/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3194-find-words-containing-character](https://github.com/hariharan1009/leetcode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/hariharan1009/leetcode/tree/master/3226-minimum-number-game) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/hariharan1009/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/hariharan1009/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3311-ant-on-the-boundary](https://github.com/hariharan1009/leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3321-type-of-triangle](https://github.com/hariharan1009/leetcode/tree/master/3321-type-of-triangle) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hariharan1009/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2502-sort-the-people](https://github.com/hariharan1009/leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/hariharan1009/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/hariharan1009/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/hariharan1009/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hariharan1009/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/hariharan1009/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/hariharan1009/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hariharan1009/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hariharan1009/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/hariharan1009/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hariharan1009/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/hariharan1009/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
