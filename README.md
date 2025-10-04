@@ -762,4 +762,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/hariharan1009/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/hariharan1009/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
