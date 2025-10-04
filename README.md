@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hariharan1009/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2857-total-distance-traveled](https://github.com/hariharan1009/leetcode/tree/master/2857-total-distance-traveled) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/hariharan1009/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3201-distribute-candies-among-children-ii](https://github.com/hariharan1009/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/hariharan1009/leetcode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/hariharan1009/leetcode/tree/master/3336-water-bottles-ii) |
 | [3371-harshad-number](https://github.com/hariharan1009/leetcode/tree/master/3371-harshad-number) |
@@ -716,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/hariharan1009/leetcode/tree/master/1656-count-good-triplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/hariharan1009/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/hariharan1009/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3201-distribute-candies-among-children-ii](https://github.com/hariharan1009/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/hariharan1009/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Monotonic Stack
 |  |
@@ -756,4 +758,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hariharan1009/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/hariharan1009/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
