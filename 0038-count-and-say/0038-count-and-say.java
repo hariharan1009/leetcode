@@ -1,19 +1,26 @@
 class Solution {
     public String countAndSay(int n) {
-        if(n==1){
-            return "1";
+        String r="1";
+        for(int i=2;i<=n;i++){
+            r=co(r);
         }
-        String s=countAndSay(n-1);
-        StringBuilder sb = new StringBuilder();
-        for(int i=0;i<s.length();i++){
-            int c=1;
-            char a=s.charAt(i);
-            while(i<s.length()-1 && s.charAt(i)==s.charAt(i+1)){
-               c++;
-                i++;
+        return r;
+    }
+    static String co(String s){
+        int c=1;
+        StringBuilder sb=new StringBuilder();
+        char pre=s.charAt(0);
+        for(int i=1;i<s.length();i++){
+            if(s.charAt(i)==pre){
+                c++;
             }
-            sb.append(c).append(a);
+            else{
+                sb.append(c).append(pre);
+                c=1;
+                pre=s.charAt(i);
+            }
         }
-     return sb.toString();
+        sb.append(c).append(pre);
+        return sb.toString();
     }
 }
