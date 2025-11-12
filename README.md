@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/hariharan1009/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hariharan1009/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hariharan1009/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1503-reducing-dishes](https://github.com/hariharan1009/leetcode/tree/master/1503-reducing-dishes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/hariharan1009/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/hariharan1009/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/hariharan1009/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/hariharan1009/leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/hariharan1009/leetcode/tree/master/1086-divisor-game) |
 | [1250-longest-common-subsequence](https://github.com/hariharan1009/leetcode/tree/master/1250-longest-common-subsequence) |
+| [1503-reducing-dishes](https://github.com/hariharan1009/leetcode/tree/master/1503-reducing-dishes) |
 ## Hash Table
 |  |
 | ------- |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hariharan1009/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hariharan1009/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hariharan1009/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1503-reducing-dishes](https://github.com/hariharan1009/leetcode/tree/master/1503-reducing-dishes) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/hariharan1009/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/hariharan1009/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/hariharan1009/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -631,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/hariharan1009/leetcode/tree/master/0979-di-string-match) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/hariharan1009/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/hariharan1009/leetcode/tree/master/1448-maximum-69-number) |
+| [1503-reducing-dishes](https://github.com/hariharan1009/leetcode/tree/master/1503-reducing-dishes) |
 | [2032-largest-odd-number-in-string](https://github.com/hariharan1009/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2154-minimum-moves-to-convert-string](https://github.com/hariharan1009/leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/hariharan1009/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
