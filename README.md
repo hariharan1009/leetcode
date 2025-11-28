@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/hariharan1009/leetcode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/hariharan1009/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/hariharan1009/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1903-largest-odd-number-in-string](https://github.com/hariharan1009/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/hariharan1009/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/hariharan1009/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2238-a-number-after-a-double-reversal](https://github.com/hariharan1009/leetcode/tree/master/2238-a-number-after-a-double-reversal) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/hariharan1009/leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/hariharan1009/leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1894-merge-strings-alternately](https://github.com/hariharan1009/leetcode/tree/master/1894-merge-strings-alternately) |
+| [1903-largest-odd-number-in-string](https://github.com/hariharan1009/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/hariharan1009/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/hariharan1009/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/hariharan1009/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/hariharan1009/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/hariharan1009/leetcode/tree/master/1448-maximum-69-number) |
 | [1503-reducing-dishes](https://github.com/hariharan1009/leetcode/tree/master/1503-reducing-dishes) |
+| [1903-largest-odd-number-in-string](https://github.com/hariharan1009/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/hariharan1009/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2154-minimum-moves-to-convert-string](https://github.com/hariharan1009/leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/hariharan1009/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
