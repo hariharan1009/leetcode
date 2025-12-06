@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/hariharan1009/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hariharan1009/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/hariharan1009/leetcode/tree/master/0782-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/hariharan1009/leetcode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/hariharan1009/leetcode/tree/master/0812-rotate-string) |
 | [0953-reverse-only-letters](https://github.com/hariharan1009/leetcode/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/hariharan1009/leetcode/tree/master/0979-di-string-match) |
@@ -672,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hariharan1009/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/hariharan1009/leetcode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/hariharan1009/leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/hariharan1009/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/hariharan1009/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
