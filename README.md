@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/hariharan1009/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1524-string-matching-in-an-array](https://github.com/hariharan1009/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hariharan1009/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hariharan1009/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/hariharan1009/leetcode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1720-crawler-log-folder](https://github.com/hariharan1009/leetcode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/hariharan1009/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/hariharan1009/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1078-remove-outermost-parentheses](https://github.com/hariharan1009/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/hariharan1009/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hariharan1009/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1720-crawler-log-folder](https://github.com/hariharan1009/leetcode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/hariharan1009/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/hariharan1009/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
