@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/hariharan1009/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2551-apply-operations-to-an-array](https://github.com/hariharan1009/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/hariharan1009/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/hariharan1009/leetcode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hariharan1009/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hariharan1009/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hariharan1009/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/hariharan1009/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/hariharan1009/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/hariharan1009/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/hariharan1009/leetcode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hariharan1009/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2857-total-distance-traveled](https://github.com/hariharan1009/leetcode/tree/master/2857-total-distance-traveled) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/hariharan1009/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/hariharan1009/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/hariharan1009/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2502-sort-the-people](https://github.com/hariharan1009/leetcode/tree/master/2502-sort-the-people) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/hariharan1009/leetcode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/hariharan1009/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/hariharan1009/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/hariharan1009/leetcode/tree/master/3194-find-words-containing-character) |
