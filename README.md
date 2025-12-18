@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/hariharan1009/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/hariharan1009/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/hariharan1009/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/hariharan1009/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hariharan1009/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [4112-maximize-expression-of-three-elements](https://github.com/hariharan1009/leetcode/tree/master/4112-maximize-expression-of-three-elements) |
 ## Math
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hariharan1009/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/hariharan1009/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/hariharan1009/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/hariharan1009/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hariharan1009/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hariharan1009/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/hariharan1009/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hariharan1009/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hariharan1009/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/hariharan1009/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/hariharan1009/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hariharan1009/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/hariharan1009/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
