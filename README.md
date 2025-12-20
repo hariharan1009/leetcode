@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/hariharan1009/leetcode/tree/master/0792-binary-search) |
 | [0909-stone-game](https://github.com/hariharan1009/leetcode/tree/master/0909-stone-game) |
 | [0944-smallest-range-i](https://github.com/hariharan1009/leetcode/tree/master/0944-smallest-range-i) |
+| [0944-delete-columns-to-make-sorted](https://github.com/hariharan1009/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0979-di-string-match](https://github.com/hariharan1009/leetcode/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/hariharan1009/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/hariharan1009/leetcode/tree/master/1031-add-to-array-form-of-integer) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/hariharan1009/leetcode/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/hariharan1009/leetcode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/hariharan1009/leetcode/tree/master/0812-rotate-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/hariharan1009/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-reverse-only-letters](https://github.com/hariharan1009/leetcode/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/hariharan1009/leetcode/tree/master/0979-di-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/hariharan1009/leetcode/tree/master/1078-remove-outermost-parentheses) |
