@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/hariharan1009/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/hariharan1009/leetcode/tree/master/0792-binary-search) |
 | [0825-friends-of-appropriate-ages](https://github.com/hariharan1009/leetcode/tree/master/0825-friends-of-appropriate-ages) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/hariharan1009/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0909-stone-game](https://github.com/hariharan1009/leetcode/tree/master/0909-stone-game) |
 | [0944-smallest-range-i](https://github.com/hariharan1009/leetcode/tree/master/0944-smallest-range-i) |
 | [0944-delete-columns-to-make-sorted](https://github.com/hariharan1009/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/hariharan1009/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/hariharan1009/leetcode/tree/master/0792-binary-search) |
 | [0825-friends-of-appropriate-ages](https://github.com/hariharan1009/leetcode/tree/master/0825-friends-of-appropriate-ages) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/hariharan1009/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hariharan1009/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hariharan1009/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/hariharan1009/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
