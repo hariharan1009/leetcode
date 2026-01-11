@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/hariharan1009/leetcode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/hariharan1009/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/hariharan1009/leetcode/tree/master/0392-is-subsequence) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/hariharan1009/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/hariharan1009/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/hariharan1009/leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/hariharan1009/leetcode/tree/master/1013-fibonacci-number) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/hariharan1009/leetcode/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/hariharan1009/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hariharan1009/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/hariharan1009/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0782-jewels-and-stones](https://github.com/hariharan1009/leetcode/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/hariharan1009/leetcode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/hariharan1009/leetcode/tree/master/0812-rotate-string) |
