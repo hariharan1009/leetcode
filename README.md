@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/hariharan1009/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hariharan1009/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/hariharan1009/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/hariharan1009/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/hariharan1009/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/hariharan1009/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2232-adding-spaces-to-a-string](https://github.com/hariharan1009/leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/hariharan1009/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2154-minimum-moves-to-convert-string](https://github.com/hariharan1009/leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/hariharan1009/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/hariharan1009/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2232-adding-spaces-to-a-string](https://github.com/hariharan1009/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/hariharan1009/leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/hariharan1009/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/hariharan1009/leetcode/tree/master/0812-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/hariharan1009/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/hariharan1009/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/hariharan1009/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/hariharan1009/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Design
 |  |
