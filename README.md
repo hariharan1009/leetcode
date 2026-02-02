@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hariharan1009/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2502-sort-the-people](https://github.com/hariharan1009/leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/hariharan1009/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [3146-permutation-difference-between-two-strings](https://github.com/hariharan1009/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/hariharan1009/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/hariharan1009/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hariharan1009/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/hariharan1009/leetcode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2678-number-of-senior-citizens](https://github.com/hariharan1009/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/hariharan1009/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3146-permutation-difference-between-two-strings](https://github.com/hariharan1009/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/hariharan1009/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/hariharan1009/leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/hariharan1009/leetcode/tree/master/3379-score-of-a-string) |
