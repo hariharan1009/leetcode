@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3582-find-indices-of-stable-mountains](https://github.com/hariharan1009/leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/hariharan1009/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/hariharan1009/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3637-trionic-array-i](https://github.com/hariharan1009/leetcode/tree/master/3637-trionic-array-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/hariharan1009/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/hariharan1009/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/hariharan1009/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
