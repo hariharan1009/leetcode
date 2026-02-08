@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/hariharan1009/leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hariharan1009/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/hariharan1009/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/hariharan1009/leetcode/tree/master/0645-set-mismatch) |
 | [0665-non-decreasing-array](https://github.com/hariharan1009/leetcode/tree/master/0665-non-decreasing-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/hariharan1009/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/hariharan1009/leetcode/tree/master/0739-daily-temperatures) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/hariharan1009/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/hariharan1009/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/hariharan1009/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0645-set-mismatch](https://github.com/hariharan1009/leetcode/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/hariharan1009/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1610-xor-operation-in-an-array](https://github.com/hariharan1009/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/hariharan1009/leetcode/tree/master/1940-maximum-xor-for-each-query) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/hariharan1009/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/hariharan1009/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/hariharan1009/leetcode/tree/master/0575-distribute-candies) |
+| [0645-set-mismatch](https://github.com/hariharan1009/leetcode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/hariharan1009/leetcode/tree/master/0782-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/hariharan1009/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1256-rank-transform-of-an-array](https://github.com/hariharan1009/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/hariharan1009/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/hariharan1009/leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hariharan1009/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/hariharan1009/leetcode/tree/master/0645-set-mismatch) |
 | [0780-max-chunks-to-make-sorted](https://github.com/hariharan1009/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0825-friends-of-appropriate-ages](https://github.com/hariharan1009/leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [1019-squares-of-a-sorted-array](https://github.com/hariharan1009/leetcode/tree/master/1019-squares-of-a-sorted-array) |
