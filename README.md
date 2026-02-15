@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/hariharan1009/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/hariharan1009/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/hariharan1009/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/hariharan1009/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/hariharan1009/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/hariharan1009/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hariharan1009/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/hariharan1009/leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/hariharan1009/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/hariharan1009/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/hariharan1009/leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/hariharan1009/leetcode/tree/master/0190-reverse-bits) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/hariharan1009/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/hariharan1009/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/hariharan1009/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/hariharan1009/leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/hariharan1009/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/hariharan1009/leetcode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/hariharan1009/leetcode/tree/master/0125-valid-palindrome) |
@@ -826,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/hariharan1009/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/hariharan1009/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/hariharan1009/leetcode/tree/master/0412-fizz-buzz) |
 | [1642-water-bottles](https://github.com/hariharan1009/leetcode/tree/master/1642-water-bottles) |
