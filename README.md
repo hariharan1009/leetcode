@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/hariharan1009/leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/hariharan1009/leetcode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hariharan1009/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/hariharan1009/leetcode/tree/master/0696-count-binary-substrings) |
 | [0825-friends-of-appropriate-ages](https://github.com/hariharan1009/leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0908-middle-of-the-linked-list](https://github.com/hariharan1009/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/hariharan1009/leetcode/tree/master/0953-reverse-only-letters) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/hariharan1009/leetcode/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/hariharan1009/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hariharan1009/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/hariharan1009/leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/hariharan1009/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0782-jewels-and-stones](https://github.com/hariharan1009/leetcode/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/hariharan1009/leetcode/tree/master/0796-rotate-string) |
