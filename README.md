@@ -529,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hariharan1009/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hariharan1009/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/hariharan1009/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/hariharan1009/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/hariharan1009/leetcode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1720-crawler-log-folder](https://github.com/hariharan1009/leetcode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/hariharan1009/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -800,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/hariharan1009/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/hariharan1009/leetcode/tree/master/1448-maximum-69-number) |
 | [1503-reducing-dishes](https://github.com/hariharan1009/leetcode/tree/master/1503-reducing-dishes) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/hariharan1009/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hariharan1009/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hariharan1009/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/hariharan1009/leetcode/tree/master/1903-largest-odd-number-in-string) |
