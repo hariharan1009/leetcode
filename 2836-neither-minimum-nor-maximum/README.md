@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/neither-minimum-nor-maximum">2836. Neither Minimum nor Maximum</a></h2><h3>Easy</h3><hr><p>Given an integer array <code>nums</code> containing <strong>distinct</strong> <strong>positive</strong> integers, find and return <strong>any</strong> number from the array that is neither the <strong>minimum</strong> nor the <strong>maximum</strong> value in the array, or <strong><code>-1</code></strong> if there is no such number.</p>
+<h2><a href="https://leetcode.com/problems/neither-minimum-nor-maximum">Neither Minimum nor Maximum</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given an integer array <code>nums</code> containing <strong>distinct</strong> <strong>positive</strong> integers, find and return <strong>any</strong> number from the array that is neither the <strong>minimum</strong> nor the <strong>maximum</strong> value in the array, or <strong><code>-1</code></strong> if there is no such number.</p>
 
 <p>Return <em>the selected integer.</em></p>
 
