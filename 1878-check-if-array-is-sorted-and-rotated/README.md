@@ -1,8 +1,8 @@
-<h2><a href="https://leetcode.com/problems/check-if-array-is-sorted-and-rotated">1878. Check if Array Is Sorted and Rotated</a></h2><h3>Easy</h3><hr><p>Given an array <code>nums</code>, return <code>true</code><em> if the array was originally sorted in non-decreasing order, then rotated <strong>some</strong> number of positions (including zero)</em>. Otherwise, return <code>false</code>.</p>
+<h2><a href="https://leetcode.com/problems/check-if-array-is-sorted-and-rotated">Check if Array Is Sorted and Rotated</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given an array <code>nums</code>, return <code>true</code><em> if the array was originally sorted in non-decreasing order, then rotated <strong>some</strong> number of positions (including zero)</em>. Otherwise, return <code>false</code>.</p>
 
 <p>There may be <strong>duplicates</strong> in the original array.</p>
 
-<p><strong>Note:</strong> An array <code>A</code> rotated by <code>x</code> positions results in an array <code>B</code> of the same length such that <code>A[i] == B[(i+x) % A.length]</code>, where <code>%</code> is the modulo operation.</p>
+<p><strong>Note:</strong> An array <code>A</code> rotated by <code>x</code> positions results in an array <code>B</code> of the same length such that <code>B[i] == A[(i+x) % A.length]</code> for every valid index <code>i</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
@@ -11,7 +11,7 @@
 <strong>Input:</strong> nums = [3,4,5,1,2]
 <strong>Output:</strong> true
 <strong>Explanation:</strong> [1,2,3,4,5] is the original sorted array.
-You can rotate the array by x = 3 positions to begin on the the element of value 3: [3,4,5,1,2].
+You can rotate the array by x = 2 positions to begin on the element of value 3: [3,4,5,1,2].
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
