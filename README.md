@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/hariharan1009/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3618-split-array-by-prime-indices](https://github.com/hariharan1009/leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/hariharan1009/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/hariharan1009/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/hariharan1009/leetcode/tree/master/3637-trionic-array-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/hariharan1009/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/hariharan1009/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/hariharan1009/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/hariharan1009/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hariharan1009/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/hariharan1009/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/hariharan1009/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hariharan1009/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hariharan1009/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/hariharan1009/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -666,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/hariharan1009/leetcode/tree/master/3226-minimum-number-game) |
 | [3291-find-if-array-can-be-sorted](https://github.com/hariharan1009/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/hariharan1009/leetcode/tree/master/3321-type-of-triangle) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/hariharan1009/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [4112-maximize-expression-of-three-elements](https://github.com/hariharan1009/leetcode/tree/master/4112-maximize-expression-of-three-elements) |
 ## Recursion
 |  |
@@ -819,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/hariharan1009/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3074-apple-redistribution-into-boxes](https://github.com/hariharan1009/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/hariharan1009/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/hariharan1009/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hariharan1009/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [4112-maximize-expression-of-three-elements](https://github.com/hariharan1009/leetcode/tree/master/4112-maximize-expression-of-three-elements) |
 ## String Matching
