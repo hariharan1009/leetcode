@@ -573,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3451-string-compression-iii](https://github.com/hariharan1009/leetcode/tree/master/3451-string-compression-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/hariharan1009/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3567-convert-date-to-binary](https://github.com/hariharan1009/leetcode/tree/master/3567-convert-date-to-binary) |
+| [3612-process-string-with-special-operations-i](https://github.com/hariharan1009/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/hariharan1009/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hariharan1009/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/hariharan1009/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -875,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/hariharan1009/leetcode/tree/master/3379-transformed-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hariharan1009/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hariharan1009/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/hariharan1009/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Number Theory
 |  |
 | ------- |
