@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/hariharan1009/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/hariharan1009/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/hariharan1009/leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/hariharan1009/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hariharan1009/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [4112-maximize-expression-of-three-elements](https://github.com/hariharan1009/leetcode/tree/master/4112-maximize-expression-of-three-elements) |
 ## Math
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/hariharan1009/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/hariharan1009/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [3719-longest-balanced-subarray-i](https://github.com/hariharan1009/leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/hariharan1009/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/hariharan1009/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/hariharan1009/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/hariharan1009/leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/hariharan1009/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hariharan1009/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/hariharan1009/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hariharan1009/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -797,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hariharan1009/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/hariharan1009/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/hariharan1009/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/hariharan1009/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hariharan1009/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/hariharan1009/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
@@ -937,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3311-ant-on-the-boundary](https://github.com/hariharan1009/leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/hariharan1009/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/hariharan1009/leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/hariharan1009/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Graph
 |  |
 | ------- |
@@ -1022,4 +1027,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/hariharan1009/leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/hariharan1009/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/hariharan1009/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
