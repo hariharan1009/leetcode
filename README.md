@@ -1019,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/hariharan1009/leetcode/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/hariharan1009/leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/hariharan1009/leetcode/tree/master/0596-classes-with-at-least-5-students) |
+| [1045-customers-who-bought-all-products](https://github.com/hariharan1009/leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1148-article-views-i](https://github.com/hariharan1009/leetcode/tree/master/1148-article-views-i) |
 | [1693-daily-leads-and-partners](https://github.com/hariharan1009/leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1757-recyclable-and-low-fat-products](https://github.com/hariharan1009/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
