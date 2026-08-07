@@ -1060,4 +1060,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/hariharan1009/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/hariharan1009/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
