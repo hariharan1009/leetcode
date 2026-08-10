@@ -1064,4 +1064,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hariharan1009/leetcode/tree/master/0020-valid-parentheses) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/hariharan1009/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/hariharan1009/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
