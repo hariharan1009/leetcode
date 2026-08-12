@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/hariharan1009/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/hariharan1009/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2974-minimum-number-game](https://github.com/hariharan1009/leetcode/tree/master/2974-minimum-number-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hariharan1009/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/hariharan1009/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/hariharan1009/leetcode/tree/master/3011-find-if-array-can-be-sorted) |
 | [3074-apple-redistribution-into-boxes](https://github.com/hariharan1009/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hariharan1009/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2502-sort-the-people](https://github.com/hariharan1009/leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/hariharan1009/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hariharan1009/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3146-permutation-difference-between-two-strings](https://github.com/hariharan1009/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/hariharan1009/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/hariharan1009/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/hariharan1009/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/hariharan1009/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2974-minimum-number-game](https://github.com/hariharan1009/leetcode/tree/master/2974-minimum-number-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hariharan1009/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/hariharan1009/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/hariharan1009/leetcode/tree/master/3011-find-if-array-can-be-sorted) |
 | [3074-apple-redistribution-into-boxes](https://github.com/hariharan1009/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
