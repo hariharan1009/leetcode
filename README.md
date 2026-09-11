@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hariharan1009/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hariharan1009/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/hariharan1009/leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [3925-concatenate-array-with-reverse](https://github.com/hariharan1009/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [4112-maximize-expression-of-three-elements](https://github.com/hariharan1009/leetcode/tree/master/4112-maximize-expression-of-three-elements) |
 ## Math
 |  |
@@ -924,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hariharan1009/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hariharan1009/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/hariharan1009/leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/hariharan1009/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
 | ------- |
